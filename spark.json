@@ -1,0 +1,7 @@
+{
+  "name": "arduino-library-files",
+  "author": "Arduino",
+  "license": "",
+  "version": "0.0.10",
+  "description": "gets useful files such as spi for arduino"
+}
